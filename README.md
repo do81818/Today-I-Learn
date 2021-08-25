@@ -10,8 +10,8 @@
 
 ## Java
 
-- [ConcurrentModificationException](Java\ConcurrentModificationException.md)
+- [ConcurrentModificationException](Java/ConcurrentModificationException.md)
 
 ## 그 외
 
-- [의사 코드(Pseudo-code)](etc\pseudo-code.md)
+- [의사 코드(Pseudo-code)](etc/pseudo-code.md)
